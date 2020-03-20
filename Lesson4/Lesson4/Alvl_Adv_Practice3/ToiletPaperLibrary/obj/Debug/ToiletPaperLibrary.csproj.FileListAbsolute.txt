@@ -1,0 +1,15 @@
+C:\Users\Roman\source\repos\Alvl_Adv_Practice3\ToiletPaperLibrary\bin\Debug\ToiletPaperLibrary.dll
+C:\Users\Roman\source\repos\Alvl_Adv_Practice3\ToiletPaperLibrary\bin\Debug\ToiletPaperLibrary.pdb
+C:\Users\Roman\source\repos\Alvl_Adv_Practice3\ToiletPaperLibrary\obj\Debug\ToiletPaperLibrary.csprojAssemblyReference.cache
+C:\Users\Roman\source\repos\Alvl_Adv_Practice3\ToiletPaperLibrary\obj\Debug\ToiletPaperLibrary.dll
+C:\Users\Roman\source\repos\Alvl_Adv_Practice3\ToiletPaperLibrary\obj\Debug\ToiletPaperLibrary.pdb
+E:\education\ALEVEL\ALEVEL-Examples\Persentations\Модуль 1\Занятие 3\Alvl_Adv_Practice3\ToiletPaperLibrary\bin\Debug\ToiletPaperLibrary.dll
+E:\education\ALEVEL\ALEVEL-Examples\Persentations\Модуль 1\Занятие 3\Alvl_Adv_Practice3\ToiletPaperLibrary\bin\Debug\ToiletPaperLibrary.pdb
+E:\education\ALEVEL\ALEVEL-Examples\Persentations\Модуль 1\Занятие 3\Alvl_Adv_Practice3\ToiletPaperLibrary\obj\Debug\ToiletPaperLibrary.csprojAssemblyReference.cache
+E:\education\ALEVEL\ALEVEL-Examples\Persentations\Модуль 1\Занятие 3\Alvl_Adv_Practice3\ToiletPaperLibrary\obj\Debug\ToiletPaperLibrary.dll
+E:\education\ALEVEL\ALEVEL-Examples\Persentations\Модуль 1\Занятие 3\Alvl_Adv_Practice3\ToiletPaperLibrary\obj\Debug\ToiletPaperLibrary.pdb
+C:\Users\UseR\source\repos\Lesson4\Alvl_Adv_Practice3\ToiletPaperLibrary\obj\Debug\ToiletPaperLibrary.csprojAssemblyReference.cache
+C:\Users\UseR\source\repos\Lesson4\Alvl_Adv_Practice3\ToiletPaperLibrary\obj\Debug\ToiletPaperLibrary.dll
+C:\Users\UseR\source\repos\Lesson4\Alvl_Adv_Practice3\ToiletPaperLibrary\obj\Debug\ToiletPaperLibrary.pdb
+C:\Users\UseR\source\repos\Lesson4\Alvl_Adv_Practice3\ToiletPaperLibrary\bin\Debug\ToiletPaperLibrary.dll
+C:\Users\UseR\source\repos\Lesson4\Alvl_Adv_Practice3\ToiletPaperLibrary\bin\Debug\ToiletPaperLibrary.pdb

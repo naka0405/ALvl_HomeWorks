@@ -1,0 +1,9 @@
+C:\Users\UseR\source\repos\Module1\Module1\obj\Debug\Module1.csprojAssemblyReference.cache
+C:\Users\UseR\source\repos\Module1\Module1\bin\Debug\Module1.exe.config
+C:\Users\UseR\source\repos\Module1\Module1\bin\Debug\Module1.exe
+C:\Users\UseR\source\repos\Module1\Module1\bin\Debug\Module1.pdb
+C:\Users\UseR\source\repos\Module1\Module1\bin\Debug\Library.dll
+C:\Users\UseR\source\repos\Module1\Module1\bin\Debug\Library.pdb
+C:\Users\UseR\source\repos\Module1\Module1\obj\Debug\Module1.csproj.CopyComplete
+C:\Users\UseR\source\repos\Module1\Module1\obj\Debug\Module1.exe
+C:\Users\UseR\source\repos\Module1\Module1\obj\Debug\Module1.pdb

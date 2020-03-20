@@ -1,0 +1,5 @@
+C:\Users\UseR\source\repos\Lesson6_ALevel\LibraryForFigures\obj\Debug\LibraryForFigures.csprojAssemblyReference.cache
+C:\Users\UseR\source\repos\Lesson6_ALevel\LibraryForFigures\bin\Debug\LibraryForFigures.dll
+C:\Users\UseR\source\repos\Lesson6_ALevel\LibraryForFigures\bin\Debug\LibraryForFigures.pdb
+C:\Users\UseR\source\repos\Lesson6_ALevel\LibraryForFigures\obj\Debug\LibraryForFigures.dll
+C:\Users\UseR\source\repos\Lesson6_ALevel\LibraryForFigures\obj\Debug\LibraryForFigures.pdb

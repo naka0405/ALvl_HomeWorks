@@ -1,0 +1,6 @@
+C:\Users\UseR\source\repos\Lesson6_ALevel\Lesson6_ALevel\bin\Debug\Lesson6_ALevel.exe.config
+C:\Users\UseR\source\repos\Lesson6_ALevel\Lesson6_ALevel\bin\Debug\Lesson6_ALevel.exe
+C:\Users\UseR\source\repos\Lesson6_ALevel\Lesson6_ALevel\bin\Debug\Lesson6_ALevel.pdb
+C:\Users\UseR\source\repos\Lesson6_ALevel\Lesson6_ALevel\obj\Debug\Lesson6_ALevel.csprojAssemblyReference.cache
+C:\Users\UseR\source\repos\Lesson6_ALevel\Lesson6_ALevel\obj\Debug\Lesson6_ALevel.exe
+C:\Users\UseR\source\repos\Lesson6_ALevel\Lesson6_ALevel\obj\Debug\Lesson6_ALevel.pdb

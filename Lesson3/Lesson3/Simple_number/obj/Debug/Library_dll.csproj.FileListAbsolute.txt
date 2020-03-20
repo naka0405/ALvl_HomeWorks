@@ -1,0 +1,5 @@
+C:\Users\UseR\source\repos\Lesson3\Simple_number\bin\Debug\Simple_number.dll
+C:\Users\UseR\source\repos\Lesson3\Simple_number\bin\Debug\Simple_number.pdb
+C:\Users\UseR\source\repos\Lesson3\Simple_number\obj\Debug\Library_dll.csprojAssemblyReference.cache
+C:\Users\UseR\source\repos\Lesson3\Simple_number\obj\Debug\Simple_number.dll
+C:\Users\UseR\source\repos\Lesson3\Simple_number\obj\Debug\Simple_number.pdb

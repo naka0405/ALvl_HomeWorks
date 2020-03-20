@@ -1,0 +1,12 @@
+C:\Users\UseR\source\repos\Lesson3\Lesson3\bin\Debug\Lesson3.exe.config
+C:\Users\UseR\source\repos\Lesson3\Lesson3\bin\Debug\Lesson3.exe
+C:\Users\UseR\source\repos\Lesson3\Lesson3\bin\Debug\Lesson3.pdb
+C:\Users\UseR\source\repos\Lesson3\Lesson3\bin\Debug\ClassWork2702.dll
+C:\Users\UseR\source\repos\Lesson3\Lesson3\bin\Debug\Simple_number.dll
+C:\Users\UseR\source\repos\Lesson3\Lesson3\bin\Debug\test.dll
+C:\Users\UseR\source\repos\Lesson3\Lesson3\bin\Debug\Simple_number.pdb
+C:\Users\UseR\source\repos\Lesson3\Lesson3\obj\Debug\Lesson3.csprojAssemblyReference.cache
+C:\Users\UseR\source\repos\Lesson3\Lesson3\obj\Debug\Lesson3.csproj.CopyComplete
+C:\Users\UseR\source\repos\Lesson3\Lesson3\obj\Debug\Lesson3.exe
+C:\Users\UseR\source\repos\Lesson3\Lesson3\obj\Debug\Lesson3.pdb
+C:\Users\UseR\source\repos\Lesson3\Lesson3\bin\Debug\CheckNumber.dll

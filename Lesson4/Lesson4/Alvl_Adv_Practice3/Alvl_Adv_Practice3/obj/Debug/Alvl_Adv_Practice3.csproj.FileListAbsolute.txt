@@ -1,0 +1,27 @@
+C:\Users\Roman\source\repos\Alvl_Adv_Practice3\Alvl_Adv_Practice3\bin\Debug\Alvl_Adv_Practice3.exe.config
+C:\Users\Roman\source\repos\Alvl_Adv_Practice3\Alvl_Adv_Practice3\bin\Debug\Alvl_Adv_Practice3.exe
+C:\Users\Roman\source\repos\Alvl_Adv_Practice3\Alvl_Adv_Practice3\bin\Debug\Alvl_Adv_Practice3.pdb
+C:\Users\Roman\source\repos\Alvl_Adv_Practice3\Alvl_Adv_Practice3\obj\Debug\Alvl_Adv_Practice3.csprojAssemblyReference.cache
+C:\Users\Roman\source\repos\Alvl_Adv_Practice3\Alvl_Adv_Practice3\obj\Debug\Alvl_Adv_Practice3.exe
+C:\Users\Roman\source\repos\Alvl_Adv_Practice3\Alvl_Adv_Practice3\obj\Debug\Alvl_Adv_Practice3.pdb
+C:\Users\Roman\source\repos\Alvl_Adv_Practice3\Alvl_Adv_Practice3\bin\Debug\ToiletPaperLibrary.dll
+C:\Users\Roman\source\repos\Alvl_Adv_Practice3\Alvl_Adv_Practice3\bin\Debug\ToiletPaperLibrary.pdb
+C:\Users\Roman\source\repos\Alvl_Adv_Practice3\Alvl_Adv_Practice3\obj\Debug\Alvl_Adv_Practice3.csproj.CopyComplete
+E:\education\ALEVEL\ALEVEL-Examples\Persentations\Модуль 1\Занятие 3\Alvl_Adv_Practice3\Alvl_Adv_Practice3\bin\Debug\Alvl_Adv_Practice3.exe.config
+E:\education\ALEVEL\ALEVEL-Examples\Persentations\Модуль 1\Занятие 3\Alvl_Adv_Practice3\Alvl_Adv_Practice3\bin\Debug\Alvl_Adv_Practice3.exe
+E:\education\ALEVEL\ALEVEL-Examples\Persentations\Модуль 1\Занятие 3\Alvl_Adv_Practice3\Alvl_Adv_Practice3\bin\Debug\Alvl_Adv_Practice3.pdb
+E:\education\ALEVEL\ALEVEL-Examples\Persentations\Модуль 1\Занятие 3\Alvl_Adv_Practice3\Alvl_Adv_Practice3\bin\Debug\ToiletPaperLibrary.dll
+E:\education\ALEVEL\ALEVEL-Examples\Persentations\Модуль 1\Занятие 3\Alvl_Adv_Practice3\Alvl_Adv_Practice3\bin\Debug\ToiletPaperLibrary.pdb
+E:\education\ALEVEL\ALEVEL-Examples\Persentations\Модуль 1\Занятие 3\Alvl_Adv_Practice3\Alvl_Adv_Practice3\obj\Debug\Alvl_Adv_Practice3.csprojAssemblyReference.cache
+E:\education\ALEVEL\ALEVEL-Examples\Persentations\Модуль 1\Занятие 3\Alvl_Adv_Practice3\Alvl_Adv_Practice3\obj\Debug\Alvl_Adv_Practice3.csproj.CopyComplete
+E:\education\ALEVEL\ALEVEL-Examples\Persentations\Модуль 1\Занятие 3\Alvl_Adv_Practice3\Alvl_Adv_Practice3\obj\Debug\Alvl_Adv_Practice3.exe
+E:\education\ALEVEL\ALEVEL-Examples\Persentations\Модуль 1\Занятие 3\Alvl_Adv_Practice3\Alvl_Adv_Practice3\obj\Debug\Alvl_Adv_Practice3.pdb
+C:\Users\UseR\source\repos\Lesson4\Alvl_Adv_Practice3\Alvl_Adv_Practice3\obj\Debug\Alvl_Adv_Practice3.csprojAssemblyReference.cache
+C:\Users\UseR\source\repos\Lesson4\Alvl_Adv_Practice3\Alvl_Adv_Practice3\obj\Debug\Alvl_Adv_Practice3.exe
+C:\Users\UseR\source\repos\Lesson4\Alvl_Adv_Practice3\Alvl_Adv_Practice3\obj\Debug\Alvl_Adv_Practice3.pdb
+C:\Users\UseR\source\repos\Lesson4\Alvl_Adv_Practice3\Alvl_Adv_Practice3\bin\Debug\Alvl_Adv_Practice3.exe.config
+C:\Users\UseR\source\repos\Lesson4\Alvl_Adv_Practice3\Alvl_Adv_Practice3\bin\Debug\Alvl_Adv_Practice3.exe
+C:\Users\UseR\source\repos\Lesson4\Alvl_Adv_Practice3\Alvl_Adv_Practice3\bin\Debug\Alvl_Adv_Practice3.pdb
+C:\Users\UseR\source\repos\Lesson4\Alvl_Adv_Practice3\Alvl_Adv_Practice3\bin\Debug\ToiletPaperLibrary.dll
+C:\Users\UseR\source\repos\Lesson4\Alvl_Adv_Practice3\Alvl_Adv_Practice3\bin\Debug\ToiletPaperLibrary.pdb
+C:\Users\UseR\source\repos\Lesson4\Alvl_Adv_Practice3\Alvl_Adv_Practice3\obj\Debug\Alvl_Adv_Practice3.csproj.CopyComplete

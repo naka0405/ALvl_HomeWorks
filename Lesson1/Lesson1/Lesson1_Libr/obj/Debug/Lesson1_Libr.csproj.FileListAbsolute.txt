@@ -1,0 +1,10 @@
+C:\Users\UseR\source\repos\Lesson1\Lesson1_Libr\obj\Debug\Lesson1_Libr.csprojAssemblyReference.cache
+C:\Users\UseR\source\repos\Lesson1\Lesson1_Libr\bin\Debug\Lesson1_Libr.dll
+C:\Users\UseR\source\repos\Lesson1\Lesson1_Libr\bin\Debug\Lesson1_Libr.pdb
+C:\Users\UseR\source\repos\Lesson1\Lesson1_Libr\obj\Debug\Lesson1_Libr.dll
+C:\Users\UseR\source\repos\Lesson1\Lesson1_Libr\obj\Debug\Lesson1_Libr.pdb
+C:\Users\UseR\source\repos\A_Level\Lesson1\Lesson1_Libr\bin\Debug\Lesson1_Libr.dll
+C:\Users\UseR\source\repos\A_Level\Lesson1\Lesson1_Libr\bin\Debug\Lesson1_Libr.pdb
+C:\Users\UseR\source\repos\A_Level\Lesson1\Lesson1_Libr\obj\Debug\Lesson1_Libr.csprojAssemblyReference.cache
+C:\Users\UseR\source\repos\A_Level\Lesson1\Lesson1_Libr\obj\Debug\Lesson1_Libr.dll
+C:\Users\UseR\source\repos\A_Level\Lesson1\Lesson1_Libr\obj\Debug\Lesson1_Libr.pdb

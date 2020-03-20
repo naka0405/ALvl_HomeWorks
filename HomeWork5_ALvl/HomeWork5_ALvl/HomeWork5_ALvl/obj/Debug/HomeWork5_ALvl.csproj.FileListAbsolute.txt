@@ -1,0 +1,9 @@
+C:\Users\UseR\source\repos\HomeWork5_ALvl\HomeWork5_ALvl\obj\Debug\HomeWork5_ALvl.csprojAssemblyReference.cache
+C:\Users\UseR\source\repos\HomeWork5_ALvl\HomeWork5_ALvl\bin\Debug\HomeWork5_ALvl.exe.config
+C:\Users\UseR\source\repos\HomeWork5_ALvl\HomeWork5_ALvl\bin\Debug\HomeWork5_ALvl.exe
+C:\Users\UseR\source\repos\HomeWork5_ALvl\HomeWork5_ALvl\bin\Debug\HomeWork5_ALvl.pdb
+C:\Users\UseR\source\repos\HomeWork5_ALvl\HomeWork5_ALvl\obj\Debug\HomeWork5_ALvl.exe
+C:\Users\UseR\source\repos\HomeWork5_ALvl\HomeWork5_ALvl\obj\Debug\HomeWork5_ALvl.pdb
+C:\Users\UseR\source\repos\HomeWork5_ALvl\HomeWork5_ALvl\bin\Debug\LibraryDLL.dll
+C:\Users\UseR\source\repos\HomeWork5_ALvl\HomeWork5_ALvl\bin\Debug\LibraryDLL.pdb
+C:\Users\UseR\source\repos\HomeWork5_ALvl\HomeWork5_ALvl\obj\Debug\HomeWork5_ALvl.csproj.CopyComplete
